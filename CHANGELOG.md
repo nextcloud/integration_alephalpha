@@ -1,5 +1,8 @@
 # Unreleased
 
+# 1.0.9
+- Support Nextcloud 34
+
 # 1.0.8
 - Support Nextcloud 33
 
